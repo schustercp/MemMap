@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{ED042186-5CB2-4665-A45A-F7510946BA02}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MemMap/MemMapWidget.cs">
+    <Files>
+      <File FileName="MemMap/Program.cs" Line="4" Column="17" />
+      <File FileName="MemMap/MainWindow.cs" Line="12" Column="19" />
+      <File FileName="MemMap/MemMapWidget.cs" Line="27" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MemMap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/home/schustercp/Projects/MemMap/MemMap/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/schustercp/Projects/MemMap/MemMap/obj/x86/Debug/MemMap.gtk-gui.gui.stetic
+/home/schustercp/Projects/MemMap/MemMap/bin/Debug/MemMap.exe.mdb
+/home/schustercp/Projects/MemMap/MemMap/bin/Debug/MemMap.exe
+/home/schustercp/Projects/MemMap/MemMap/obj/x86/Debug/MemMap.exe
+/home/schustercp/Projects/MemMap/MemMap/obj/x86/Debug/MemMap.exe.mdb
